@@ -1,5 +1,5 @@
 # shanusushmita
-#TCSS554
-#Decompression the .rar file, which has a package used in program for stemming.
-#Put all .txt file together with the main program.
-#Run the main.py with IDLE.
+TCSS554<br> 
+Decompression the .rar file, which has a package used in program for stemming.<br> 
+Put all .txt file together with the main program.<br> 
+Run the main.py with IDLE.<br> 
